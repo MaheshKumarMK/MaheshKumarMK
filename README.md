@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 
 I am a Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Project Analyst and exploring things around data.
+- :telescope: I’m working as a Project guide and Data Science trainer and exploring things around data.
 
 - :seedling: Exploring the hottest topic DATA SCIENCE
 
